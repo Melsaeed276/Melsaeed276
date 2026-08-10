@@ -13,8 +13,15 @@ Flutter · iOS · SDK Development · Mobile Architecture · Product Ownership
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-melsaeed276-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melsaeed276/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.elsaeed276@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Melsaeed276-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Melsaeed276)
+[![StandWithPalestine](https://img.shields.io/badge/Stand_With-Palestine-009736?style=for-the-badge&labelColor=CE1126)](https://techforpalestine.org/)
 
-[English](https://github.com/Melsaeed276/Melsaeed276) · [Türkçe](https://github.com/Melsaeed276/profile-readme-locales/blob/main/README.tr.md) · [العربية](https://github.com/Melsaeed276/profile-readme-locales/blob/main/README.ar.md)
+<br/>
+
+<a href="https://github.com/Melsaeed276/Melsaeed276"><strong>English</strong></a>
+·
+<a href="https://github.com/Melsaeed276/profile-readme-locales/blob/main/README.tr.md"><strong>Türkçe</strong></a>
+·
+<a href="https://github.com/Melsaeed276/profile-readme-locales/blob/main/README.ar.md"><strong>العربية</strong></a>
 
 </div>
 
@@ -67,6 +74,16 @@ Recent focus: modular iOS SDKs, greenfield Flutter delivery, localization toolin
 
 [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/)
 
-<sub>English is canonical · Translations: <a href="https://github.com/Melsaeed276/profile-readme-locales">profile-readme-locales</a></sub>
+<br/>
+
+<sub>
+Languages:
+<a href="https://github.com/Melsaeed276/Melsaeed276">English</a> ·
+<a href="https://github.com/Melsaeed276/profile-readme-locales/blob/main/README.tr.md">Türkçe</a> ·
+<a href="https://github.com/Melsaeed276/profile-readme-locales/blob/main/README.ar.md">العربية</a>
+<br/>
+English is canonical · Translations live in
+<a href="https://github.com/Melsaeed276/profile-readme-locales">profile-readme-locales</a>
+</sub>
 
 </div>
