@@ -55,14 +55,20 @@ I build mobile products from requirements and architecture through implementatio
 </p>
 
 <p>
-  <strong>PageSpeed Insights (from 2026-08-11 screenshot):</strong><br/>
+  <strong>PageSpeed Insights</strong> (portfolio · snapshot 2026-08-11)<br/>
   <br/>
-  <img
-    src="badges/pagespeed/pagespeed-insights.svg"
-    alt="PageSpeed Insights scores"
-  />
-  <br/>
-  <sub>Tip: we can automate these later with a Lighthouse workflow if you want.</sub>
+  <a href="https://pagespeed.web.dev/analysis?url=https%3A%2F%2Fmuhammed-elsaeed-portfolio.mohamed-elsaeed276.chatgpt.site">
+    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMelsaeed276%2FMelsaeed276%2Fdraft%2Fportfolio-link-2026-08-11%2Fbadges%2Fpagespeed%2Fperformance.json&style=for-the-badge" alt="Performance" />
+  </a>
+  <a href="https://pagespeed.web.dev/analysis?url=https%3A%2F%2Fmuhammed-elsaeed-portfolio.mohamed-elsaeed276.chatgpt.site">
+    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMelsaeed276%2FMelsaeed276%2Fdraft%2Fportfolio-link-2026-08-11%2Fbadges%2Fpagespeed%2Faccessibility.json&style=for-the-badge" alt="Accessibility" />
+  </a>
+  <a href="https://pagespeed.web.dev/analysis?url=https%3A%2F%2Fmuhammed-elsaeed-portfolio.mohamed-elsaeed276.chatgpt.site">
+    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMelsaeed276%2FMelsaeed276%2Fdraft%2Fportfolio-link-2026-08-11%2Fbadges%2Fpagespeed%2Fbest-practices.json&style=for-the-badge" alt="Best Practices" />
+  </a>
+  <a href="https://pagespeed.web.dev/analysis?url=https%3A%2F%2Fmuhammed-elsaeed-portfolio.mohamed-elsaeed276.chatgpt.site">
+    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMelsaeed276%2FMelsaeed276%2Fdraft%2Fportfolio-link-2026-08-11%2Fbadges%2Fpagespeed%2Fseo.json&style=for-the-badge" alt="SEO" />
+  </a>
 </p>
 
 What I focus on:
