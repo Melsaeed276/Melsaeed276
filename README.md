@@ -32,7 +32,19 @@ Flutter · iOS · SDK Development · Mobile Architecture · Product Ownership
 
 I build mobile products from requirements and architecture through implementation, testing, CI/CD, and release — across **Flutter/Dart**, **Swift/iOS**, and **Kotlin/Android**.
 
-Portfolio: https://muhammed-elsaeed-portfolio.mohamed-elsaeed276.chatgpt.site
+<p>
+  <strong>Portfolio (live):</strong>
+  <a href="https://muhammed-elsaeed-portfolio.mohamed-elsaeed276.chatgpt.site">muhammed-elsaeed-portfolio.mohamed-elsaeed276.chatgpt.site</a>
+  <br/>
+  <strong>Website locales:</strong> English / Türkçe / العربية
+</p>
+
+What I focus on:
+
+- **Architecture-first delivery** (clean structure, scalable features)
+- **Reusable packages / SDK-style components**
+- **Localization** (EN/TR/AR) and adaptive UI
+- **Evidence-based public writing** (no inflated claims)
 
 Recent focus: modular iOS SDKs, greenfield Flutter delivery, localization tooling, and AI-assisted engineering workflows. Open to roles in **Türkiye** and **remote worldwide**.
 
