@@ -33,13 +33,6 @@ Flutter · iOS · SDK Development · Mobile Architecture · Product Ownership
   />
 </p>
 
-<p>
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=900&color=0A66C2&center=true&vCenter=true&width=600&lines=Flutter+%E2%80%A2+iOS+%E2%80%A2+Kotlin%2FAndroid;SDK-style+components+%E2%80%A2+Architecture-first;EN%2FTR%2FAR+Localization+%E2%80%A2+Adaptive+UI"
-    alt="Typing intro"
-  />
-</p>
-
 <a href="https://github.com/Melsaeed276/Melsaeed276"><strong>English</strong></a>
 ·
 <a href="https://github.com/Melsaeed276/profile-readme-locales/blob/main/README.tr.md"><strong>Türkçe</strong></a>
