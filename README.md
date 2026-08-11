@@ -18,6 +18,28 @@ Flutter · iOS · SDK Development · Mobile Architecture · Product Ownership
 
 <br/>
 
+<p>
+  <img
+    src="https://komarev.com/ghpvc/?username=Melsaeed276&style=for-the-badge&color=0A66C2"
+    alt="Profile views"
+  />
+  <img
+    src="https://img.shields.io/github/followers/Melsaeed276?style=for-the-badge&label=Followers&color=111827"
+    alt="GitHub followers"
+  />
+  <img
+    src="https://img.shields.io/github/stars/Melsaeed276?style=for-the-badge&label=Stars&color=111827"
+    alt="GitHub stars"
+  />
+</p>
+
+<p>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=900&color=0A66C2&center=true&vCenter=true&width=600&lines=Flutter+%E2%80%A2+iOS+%E2%80%A2+Kotlin%2FAndroid;SDK-style+components+%E2%80%A2+Architecture-first;EN%2FTR%2FAR+Localization+%E2%80%A2+Adaptive+UI"
+    alt="Typing intro"
+  />
+</p>
+
 <a href="https://github.com/Melsaeed276/Melsaeed276"><strong>English</strong></a>
 ·
 <a href="https://github.com/Melsaeed276/profile-readme-locales/blob/main/README.tr.md"><strong>Türkçe</strong></a>
@@ -47,6 +69,38 @@ What I focus on:
 - **Evidence-based public writing** (no inflated claims)
 
 Recent focus: modular iOS SDKs, greenfield Flutter delivery, localization tooling, and AI-assisted engineering workflows. Open to roles in **Türkiye** and **remote worldwide**.
+
+---
+
+<details>
+  <summary><strong>GitHub stats (optional)</strong></summary>
+  <br/>
+  <p align="center">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Melsaeed276&show_icons=true&hide_rank=false&include_all_commits=true"
+      alt="GitHub stats"
+      height="165"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melsaeed276&layout=compact&langs_count=8"
+      alt="Top languages"
+      height="165"
+    />
+  </p>
+  <p align="center">
+    <img
+      src="https://streak-stats.demolab.com?user=Melsaeed276&date_format=j%20M%5B%20Y%5D"
+      alt="GitHub streak"
+      height="165"
+    />
+  </p>
+  <p align="center">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=Melsaeed276&theme=flat&no-frame=true&margin-w=8&margin-h=8"
+      alt="GitHub trophies"
+    />
+  </p>
+</details>
 
 ---
 
