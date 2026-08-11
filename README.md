@@ -58,16 +58,11 @@ I build mobile products from requirements and architecture through implementatio
   <strong>PageSpeed Insights</strong> (portfolio · snapshot 2026-08-11)<br/>
   <br/>
   <a href="https://pagespeed.web.dev/analysis?url=https%3A%2F%2Fmuhammed-elsaeed-portfolio.mohamed-elsaeed276.chatgpt.site">
-    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMelsaeed276%2FMelsaeed276%2Fdraft%2Fportfolio-link-2026-08-11%2Fbadges%2Fpagespeed%2Fperformance.json&style=for-the-badge" alt="Performance" />
-  </a>
-  <a href="https://pagespeed.web.dev/analysis?url=https%3A%2F%2Fmuhammed-elsaeed-portfolio.mohamed-elsaeed276.chatgpt.site">
-    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMelsaeed276%2FMelsaeed276%2Fdraft%2Fportfolio-link-2026-08-11%2Fbadges%2Fpagespeed%2Faccessibility.json&style=for-the-badge" alt="Accessibility" />
-  </a>
-  <a href="https://pagespeed.web.dev/analysis?url=https%3A%2F%2Fmuhammed-elsaeed-portfolio.mohamed-elsaeed276.chatgpt.site">
-    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMelsaeed276%2FMelsaeed276%2Fdraft%2Fportfolio-link-2026-08-11%2Fbadges%2Fpagespeed%2Fbest-practices.json&style=for-the-badge" alt="Best Practices" />
-  </a>
-  <a href="https://pagespeed.web.dev/analysis?url=https%3A%2F%2Fmuhammed-elsaeed-portfolio.mohamed-elsaeed276.chatgpt.site">
-    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMelsaeed276%2FMelsaeed276%2Fdraft%2Fportfolio-link-2026-08-11%2Fbadges%2Fpagespeed%2Fseo.json&style=for-the-badge" alt="SEO" />
+    <img
+      src="https://raw.githubusercontent.com/Melsaeed276/Melsaeed276/draft/portfolio-link-2026-08-11/badges/pagespeed/pagespeed-insights.png"
+      alt="PageSpeed Insights scores: Performance 93, Accessibility 99, Best Practices 100, SEO 100"
+      width="647"
+    />
   </a>
 </p>
 
