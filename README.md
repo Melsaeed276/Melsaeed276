@@ -58,7 +58,7 @@ I build mobile products from requirements and architecture through implementatio
   <strong>PageSpeed Insights (from 2026-08-11 screenshot):</strong><br/>
   <br/>
   <img
-    src="https://github.com/Melsaeed276/Melsaeed276/raw/draft/portfolio-link-2026-08-11/badges/pagespeed/pagespeed-insights.png"
+    src="https://raw.githubusercontent.com/Melsaeed276/Melsaeed276/draft/portfolio-link-2026-08-11/badges/pagespeed/pagespeed-insights.png"
     alt="PageSpeed Insights scores"
   />
   <br/>
