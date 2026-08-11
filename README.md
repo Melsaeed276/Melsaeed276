@@ -11,6 +11,7 @@ Flutter · iOS · SDK Development · Mobile Architecture · Product Ownership
 
 [![Location](https://img.shields.io/badge/Istanbul-Türkiye-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Istanbul)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-melsaeed276-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melsaeed276/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammed-elsaeed-portfolio.mohamed-elsaeed276.chatgpt.site)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.elsaeed276@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Melsaeed276-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Melsaeed276)
 [![StandWithPalestine](https://img.shields.io/badge/Stand_With-Palestine-009736?style=for-the-badge&labelColor=CE1126)](https://techforpalestine.org/)
@@ -30,6 +31,8 @@ Flutter · iOS · SDK Development · Mobile Architecture · Product Ownership
 ### About
 
 I build mobile products from requirements and architecture through implementation, testing, CI/CD, and release — across **Flutter/Dart**, **Swift/iOS**, and **Kotlin/Android**.
+
+Portfolio: https://muhammed-elsaeed-portfolio.mohamed-elsaeed276.chatgpt.site
 
 Recent focus: modular iOS SDKs, greenfield Flutter delivery, localization tooling, and AI-assisted engineering workflows. Open to roles in **Türkiye** and **remote worldwide**.
 
