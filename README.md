@@ -33,6 +33,8 @@ I build mobile products from requirements and architecture through implementatio
 
 Recent focus: modular iOS SDKs, greenfield Flutter delivery, localization tooling, and AI-assisted engineering workflows. Open to roles in **Türkiye** and **remote worldwide**.
 
+Portfolio: [muhammed-elsaeed-portfolio.mohamed-elsaeed276.chatgpt.site](https://muhammed-elsaeed-portfolio.mohamed-elsaeed276.chatgpt.site)
+
 ---
 
 ### Tech stack
