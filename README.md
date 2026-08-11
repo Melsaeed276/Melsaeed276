@@ -54,18 +54,6 @@ I build mobile products from requirements and architecture through implementatio
   <strong>Website locales:</strong> English / Türkçe / العربية
 </p>
 
-<p>
-  <strong>PageSpeed Insights</strong> (portfolio · snapshot 2026-08-11)<br/>
-  <br/>
-  <a href="https://pagespeed.web.dev/analysis?url=https%3A%2F%2Fmuhammed-elsaeed-portfolio.mohamed-elsaeed276.chatgpt.site">
-    <img
-      src="https://raw.githubusercontent.com/Melsaeed276/Melsaeed276/draft/portfolio-link-2026-08-11/badges/pagespeed/pagespeed-insights.png"
-      alt="PageSpeed Insights scores: Performance 93, Accessibility 99, Best Practices 100, SEO 100"
-      width="647"
-    />
-  </a>
-</p>
-
 What I focus on:
 
 - **Architecture-first delivery** (clean structure, scalable features)
