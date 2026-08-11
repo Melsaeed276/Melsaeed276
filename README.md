@@ -79,23 +79,6 @@ Recent focus: modular iOS SDKs, greenfield Flutter delivery, localization toolin
 
 ---
 
-## GitHub
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Melsaeed276&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&title_color=111827&icon_color=0A66C2&text_color=374151&bg_color=00000000"
-    alt="GitHub stats"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melsaeed276&layout=compact&langs_count=6&hide_border=true&theme=transparent&title_color=111827&text_color=374151&bg_color=00000000"
-    alt="Top languages"
-    height="160"
-  />
-</p>
-
----
-
 ## Open to
 
 `Mobile Developer` · `Mobile Engineer` · `iOS Developer` · `Product Owner` · `Junior Project Manager`
