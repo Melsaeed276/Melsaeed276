@@ -2,6 +2,11 @@
 
 # Muhammed Elsaeed
 
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=header&text=Muhammed%20Elsaeed&fontSize=28&fontAlignY=35&desc=Mobile%20Software%20Engineer%20%E2%80%A2%20Flutter%20%E2%80%A2%20iOS%20%E2%80%A2%20Kotlin%2FAndroid&descAlignY=55"
+  alt="Profile header"
+/>
+
 **Mobile Software Engineer**  
 Flutter · iOS · SDK Development · Mobile Architecture · Product Ownership
 
@@ -52,6 +57,16 @@ I build mobile products from requirements and architecture through implementatio
   <a href="https://muhammed-elsaeed-portfolio.mohamed-elsaeed276.chatgpt.site">muhammed-elsaeed-portfolio.mohamed-elsaeed276.chatgpt.site</a>
   <br/>
   <strong>Website locales:</strong> English / Türkçe / العربية
+</p>
+
+<p>
+  <strong>PageSpeed Insights (from 2026-08-11 screenshot):</strong><br/>
+  <img src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fraw.githubusercontent.com%2FMelsaeed276%2FMelsaeed276%2Fdraft%2Fportfolio-link-2026-08-11%2Fbadges%2Fpagespeed%2Fperformance.json" alt="PageSpeed Performance" />
+  <img src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fraw.githubusercontent.com%2FMelsaeed276%2FMelsaeed276%2Fdraft%2Fportfolio-link-2026-08-11%2Fbadges%2Fpagespeed%2Faccessibility.json" alt="PageSpeed Accessibility" />
+  <img src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fraw.githubusercontent.com%2FMelsaeed276%2FMelsaeed276%2Fdraft%2Fportfolio-link-2026-08-11%2Fbadges%2Fpagespeed%2Fbest-practices.json" alt="PageSpeed Best Practices" />
+  <img src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fraw.githubusercontent.com%2FMelsaeed276%2FMelsaeed276%2Fdraft%2Fportfolio-link-2026-08-11%2Fbadges%2Fpagespeed%2Fseo.json" alt="PageSpeed SEO" />
+  <br/>
+  <sub>Tip: we can automate these later with a Lighthouse workflow if you want.</sub>
 </p>
 
 What I focus on:
