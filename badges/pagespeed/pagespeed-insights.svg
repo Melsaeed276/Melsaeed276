@@ -17,9 +17,6 @@
   <text x="28" y="62" class="muted">Snapshot scores (2026-08-11)</text>
 
   <!-- circles -->
-  <!-- Common styles -->
-  <!-- Background ring -->
-  <!-- Foreground ring (full ring to match green circle look) -->
 
   <!-- Performance -->
   <g transform="translate(110 120)">
